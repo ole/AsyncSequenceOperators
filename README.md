@@ -1,3 +1,5 @@
 # AsyncSequenceOperators
 
-Reimplementations of functional reactive operators for `AsyncSequence`.
+Experimental reimplementations of functional reactive operators for `AsyncSequence`.
+
+**DO NOT USE IN PRODUCTION CODE!**
